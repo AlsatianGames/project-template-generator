@@ -49,7 +49,7 @@ Esta herramienta permite crear de forma rápida y visual componentes React con s
 
 ## 👨‍💻 Autor
 
-Hecho con ❤️ por [**Taliex4**](https://github.com/TU_USUARIO)
+Hecho con ❤️ por [**Taliex4**](https://github.com/AlsatianGames)
 
 Versión: **1.0**  
 Fecha: **Abril 2025**
